@@ -69,29 +69,31 @@ Car_Price_Prediction/
 ## 📊 Screenshots
 
 ### 🔷 Model Evaluation Summary Table  
-📌 ![Description](image_name.png)
+📌 ![Description](hypertunning.PNG)
 
 ### 🔷 Linear Regression Visualization  
-📌 ![Description](image_name.png)
+📌 ![Description](LR-model)
 
 ### 🔷 Logistic Regression Visualization  
-📌 ![Description](image_name.png)
+📌 ![Description](LR.PNG)
 
 
 
 ### 🔷 Decision Tree Visualization  
-📌 ![Description](image_name.png)
+📌 ![Description](decision-tree.PNG)
 
 ### 🔷 Decision Tree (Feature Importance)  
-📌 ![Description](image_name.png)
+📌 ![Description](DTR-importance.PNG)
+
+📌 ![Description](DTR-metrice.PNG)
 
 
 ### 🔷 Random Forest Visualization  
-📌 ![Description](image_name.png)
+📌 ![Description](RFR-metrice.PNG)
 
 
 ### 🔷 Feature Importance (Random Forest)  
-📌 ![Description](image_name.png)
+📌 ![Description](RFR-importance)
 
 
 ---
