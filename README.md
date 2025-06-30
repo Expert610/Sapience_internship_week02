@@ -74,7 +74,7 @@ Car_Price_Prediction/
 ### 🔷 Linear Regression Visualization  
 📌 ![Description](LR-model.PNG)
 
-📌 ![Description](LR-model-importance.PNG)
+📌 ![Description](LR-model-Importance.PNG)
 
 ### 🔷 Logistic Regression Visualization  
 📌 ![Description](LR.PNG)
@@ -82,7 +82,7 @@ Car_Price_Prediction/
 
 
 ### 🔷 Decision Tree Visualization  
-📌 ![Description](decisiontree.PNG)
+📌 ![Description](decision tree.PNG)
 
 ### 🔷 Decision Tree (Feature Importance)  
 📌 ![Description](DTR-importance.PNG)
@@ -95,7 +95,7 @@ Car_Price_Prediction/
 
 
 ### 🔷 Feature Importance (Random Forest)  
-📌 ![Description](RFR-importance)
+📌 ![Description](RFR-importance.PNG)
 
 
 ---
